@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "term": 1,
+    "day": "月",
+    "period": 1,
+    "name": "アルゴリズム入門",
+    "location": "A101"
+  },
+  {
+    "id": 2,
+    "term": 1,
+    "day": "月",
+    "period": 2,
+    "name": "アルゴリズム入門",
+    "location": "A101"
+  },
+  {
+    "id": 3,
+    "term": 1,
+    "day": "月",
+    "period": 3,
+    "name": "English I",
+    "location": "B101"
+  },
+  {
+    "id": 4,
+    "term": 1,
+    "day": "月",
+    "period": 4,
+    "name": "ジェンダー学",
+    "location": "C101"
+  },
+  {
+    "id": 5,
+    "term": 1,
+    "day": "火",
+    "period": 2,
+    "name": "プログラミング基礎",
+    "location": "A101"
+  },
+  {
+    "id": 6,
+    "term": 1,
+    "day": "火",
+    "period": 3,
+    "name": "計算機数学",
+    "location": "A102"
+  },
+  {
+    "id": 7,
+    "term": 1,
+    "day": "火",
+    "period": 4,
+    "name": "計算機数学",
+    "location": "A102"
+  },
+  {
+    "id": 8,
+    "term": 1,
+    "day": "火",
+    "period": 5,
+    "name": "女性学",
+    "location": "C101"
+  },
+  {
+    "id": 9,
+    "term": 1,
+    "day": "水",
+    "period": 1,
+    "name": "コンピュータ概論a",
+    "location": "A101"
+  },
+  {
+    "id": 10,
+    "term": 1,
+    "day": "水",
+    "period": 2,
+    "name": "自然言語処理",
+    "location": "A101"
+  },
+  {
+    "id": 11,
+    "term": 1,
+    "day": "水",
+    "period": 4,
+    "name": "システム運用",
+    "location": "A101"
+  },
+  {
+    "id": 12,
+    "term": 1,
+    "day": "水",
+    "period": 5,
+    "name": "教職概論",
+    "location": "C102"
+  },
+  {
+    "id": 13,
+    "term": 1,
+    "day": "木",
+    "period": 1,
+    "name": "コンピュータ概論b",
+    "location": "A101"
+  },
+  {
+    "id": 14,
+    "term": 1,
+    "day": "木",
+    "period": 2,
+    "name": "セミナー",
+    "location": "A101"
+  },
+  {
+    "id": 15,
+    "term": 1,
+    "day": "木",
+    "period": 2,
+    "name": "離散数学",
+    "location": "A102"
+  },
+  {
+    "id": 16,
+    "term": 1,
+    "day": "木",
+    "period": 5,
+    "name": "基礎デザイン",
+    "location": "A101"
+  },
+  {
+    "id": 17,
+    "term": 1,
+    "day": "金",
+    "period": 1,
+    "name": "フーリエ解析",
+    "location": "A101"
+  },
+  {
+    "id": 18,
+    "term": 1,
+    "day": "金",
+    "period": 2,
+    "name": "確率統計",
+    "location": "A101"
+  },
+  {
+    "id": 19,
+    "term": 1,
+    "day": "金",
+    "period": 3,
+    "name": "メディア概論",
+    "location": "A101"
+  },
+  {
+    "id": 20,
+    "term": 1,
+    "day": "金",
+    "period": 4,
+    "name": "メディア概論",
+    "location": "A101"
+  },
+  {
+    "id": 21,
+    "term": 2,
+    "day": "月",
+    "period": 1,
+    "name": "アルゴリズム入門",
+    "location": "A101"
+  },
+  {
+    "id": 22,
+    "term": 2,
+    "day": "月",
+    "period": 2,
+    "name": "アルゴリズム入門",
+    "location": "A101"
+  },
+  {
+    "id": 23,
+    "term": 2,
+    "day": "月",
+    "period": 3,
+    "name": "English I",
+    "location": "B101"
+  },
+  {
+    "id": 24,
+    "term": 2,
+    "day": "月",
+    "period": 4,
+    "name": "ジェンダー学",
+    "location": "C101"
+  },
+  {
+    "id": 25,
+    "term": 2,
+    "day": "火",
+    "period": 2,
+    "name": "プログラミング基礎",
+    "location": "A101"
+  },
+  {
+    "id": 26,
+    "term": 2,
+    "day": "火",
+    "period": 3,
+    "name": "線形代数学",
+    "location": "A102"
+  },
+  {
+    "id": 27,
+    "term": 2,
+    "day": "火",
+    "period": 4,
+    "name": "線形代数学",
+    "location": "A102"
+  },
+  {
+    "id": 28,
+    "term": 2,
+    "day": "火",
+    "period": 5,
+    "name": "女性学",
+    "location": "C101"
+  },
+  {
+    "id": 29,
+    "term": 2,
+    "day": "水",
+    "period": 1,
+    "name": "コンピュータ概論a",
+    "location": "A101"
+  },
+  {
+    "id": 30,
+    "term": 2,
+    "day": "水",
+    "period": 2,
+    "name": "自然言語処理",
+    "location": "A101"
+  },
+  {
+    "id": 31,
+    "term": 2,
+    "day": "水",
+    "period": 4,
+    "name": "システム運用",
+    "location": "A101"
+  },
+  {
+    "id": 32,
+    "term": 2,
+    "day": "水",
+    "period": 5,
+    "name": "教職概論",
+    "location": "C102"
+  },
+  {
+    "id": 33,
+    "term": 2,
+    "day": "木",
+    "period": 1,
+    "name": "コンピュータ概論b",
+    "location": "A101"
+  },
+  {
+    "id": 34,
+    "term": 2,
+    "day": "木",
+    "period": 2,
+    "name": "セミナー",
+    "location": "A101"
+  },
+  {
+    "id": 35,
+    "term": 2,
+    "day": "木",
+    "period": 2,
+    "name": "数値解析学",
+    "location": "A102"
+  },
+  {
+    "id": 36,
+    "term": 2,
+    "day": "木",
+    "period": 5,
+    "name": "基礎デザイン",
+    "location": "A101"
+  },
+  {
+    "id": 37,
+    "term": 2,
+    "day": "金",
+    "period": 1,
+    "name": "フーリエ解析",
+    "location": "A101"
+  },
+  {
+    "id": 38,
+    "term": 2,
+    "day": "金",
+    "period": 2,
+    "name": "確率統計",
+    "location": "A101"
+  },
+  {
+    "id": 39,
+    "term": 2,
+    "day": "金",
+    "period": 3,
+    "name": "メディア概論",
+    "location": "A101"
+  },
+  {
+    "id": 40,
+    "term": 2,
+    "day": "金",
+    "period": 4,
+    "name": "メディア概論",
+    "location": "A101"
+  }
+]
